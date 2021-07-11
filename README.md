@@ -17,8 +17,9 @@
 
 ## 💻 Sobre
 Este é um repositório aonde eu guardo meus treinamentos criando projetos de sites!
-* O TecBlog é somente um blog de tecnologia fictício.
-* O Notícias Cidade é somente um site de notícias fictício, em alguma região no Brasil.
+* TecBlog é somente um blog de tecnologia criado para por em prática os conhecimentos básicos adquiridos.
+* Notícias Cidade é um site de notícias fictício, em alguma região no Brasil,com intuito de aprender a montar um site com várias colunas.
+* Chalé Hotel é um site de hospedagem em alguma parte do Brasil, usando o conhecimento de layout líquido
 
 Ambos projetos são **NÃO FUNCIONAIS** e **FICTÍCIOS**, ou seja, você não consegue interagir com muitas das coisas. A ideia deste projeto foi praticar os conhecimentos que eu venho adquirindo constatemente no HTML e CSS.
 As fotos estão em ordem decrescente, então a primeira foto é o meu primeiro projeto!
