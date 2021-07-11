@@ -11,14 +11,14 @@
  <img src="https://i2.paste.pics/CYX6R.png" alt="Projeto-Tecblog"/>
  <br><br>
  <img src="https://i2.paste.pics/D42P9.png" alt="Projeto-Noticias"/>
-
+ <br><br>
+ <img src="https://i2.paste.pics/e80a8c52945ecd0812b2d59eab7f9e15.png" alt="Projeto-Noticias"/>
 </p>
-<br>
 
 ## 💻 Sobre
 Este é um repositório aonde eu guardo meus treinamentos criando projetos de sites!
 * TecBlog é somente um blog de tecnologia criado para por em prática os conhecimentos básicos adquiridos.
-* Notícias Cidade é um site de notícias fictício, em alguma região no Brasil,com intuito de aprender a montar um site com várias colunas.
+* Notícias Cidade é um site de notícias fictício, em alguma região no Brasil, com intuito de aprender a montar um site com várias colunas.
 * Chalé Hotel é um site de hospedagem em alguma parte do Brasil, usando o conhecimento de layout líquido
 
 Ambos projetos são **NÃO FUNCIONAIS** e **FICTÍCIOS**, ou seja, você não consegue interagir com muitas das coisas. A ideia deste projeto foi praticar os conhecimentos que eu venho adquirindo constatemente no HTML e CSS.
