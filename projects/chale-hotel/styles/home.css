@@ -1,0 +1,173 @@
+#container {
+    background: #ede9cc url('/aulas/aula3/projects/chale-hotel/images/bg-container.png') repeat-y center top;
+    margin: 0 auto;
+    min-width: 74rem;
+    max-width: 118rem;
+}
+
+
+/* Formatando top */
+
+#container #top {
+    position: relative;
+    background: #dbcd87;
+    height: 25.4rem;
+    min-height: 25rem;
+}
+
+#container #top #area-logo {
+    position: absolute;
+    background: url('/aulas/aula3/projects/chale-hotel/images/topo-imagem-principal2.png') no-repeat;
+    width: 100%;
+    height: 25rem;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.logo a {
+    position: absolute;
+    top: 1.5rem;
+    left: 1.5rem;
+    z-index: 3;
+    background: url('/aulas/aula3/projects/chale-hotel/images/logo.png') no-repeat;
+    width: 15.1rem;
+    height: 6.6rem;
+    text-indent: -90000px;
+    overflow: hidden;
+}
+
+#container #top #menu-area {
+    position: absolute;
+    background: url('/aulas/aula3/projects/chale-hotel/images/topo-imagem-lateral.png') no-repeat;
+    width: 45rem;
+    height: 25rem;
+    top: 0;
+    right: 0;
+    z-index: 2;
+}
+
+#container #top #menu-area #menu-content {
+    margin-left: 9rem;
+    margin-right: 1.5rem;
+    padding-top: 1.5rem;
+
+}
+
+#container #top #menu-area #menu-content #menu-location {
+    border-top: 1px solid #b5ab56;
+    border-bottom: 1px solid #b5ab56;
+    padding: .5rem 0;
+    font-size: 1.3rem;
+    color: #8b8448;
+}
+
+#menu-location .local {
+    float: left;
+    line-height: 2.5rem;
+}
+
+a.reserve {
+    text-transform: uppercase;
+    background: #a29750;
+    color: #fff5b0;
+    padding: .5rem 1rem;
+    float: right;
+}
+
+
+/* barra de navegação vertical */
+#container #top #menu-area #menu-content #menu {
+    margin-top: 1.5rem;
+}
+
+#container #top #menu-area #menu-content #menu #vertical-navigation {
+    float: left;
+}
+
+#container #top #menu-area #menu-content #menu #vertical-navigation a {
+    text-transform: uppercase;
+    font-size: 1.6rem;
+    padding: .5rem;
+    color: #6e672c;
+    line-height: 3rem;
+}
+
+#container #top #menu-area #menu-content #menu #vertical-navigation a:hover {
+    background: #fdf6be;
+}
+
+.testimonial {
+    width: 22.6rem;
+    height: 16.4rem;
+    float: right;
+}
+
+
+/* Área de conteudos */
+#container #main-area {
+    float: left;
+    width: 50%;
+    background: url('/aulas/aula3/projects/chale-hotel/images/bg-area-principal.png') top left repeat-x;
+    padding: 1.5rem 0;
+}
+
+#container #side-area {
+    float: right;
+    width: 50%;
+    background: url('/aulas/aula3/projects/chale-hotel/images/bg-area-lateral.png') top left repeat-x;
+    padding: 2rem 0;
+}
+
+.content {
+    margin: 0 auto;
+    width: 90%;
+}
+
+
+/* formatar textos */
+#container #main-area h2 {
+    color: #7d7640;
+    font-size: 1.8rem;
+    padding: .5rem 0;
+}
+
+
+/* formatações area lateral */
+#container #side-area .content #benefit-list li {
+    padding: .8rem;
+    border-bottom: 1px solid #f3efcb;
+    height: 9.7rem;
+}
+
+#container #side-area .content #benefit-list li a img {
+    float: left;
+    margin-right: .8rem;
+}
+
+#container #side-area .content #benefit-list li a p {
+    font-size: 1.4rem;
+    color: black;
+}
+
+#container #side-area .content #benefit-list li a h3 {
+    font-size: 1.6rem;
+    color: #615b2d;
+    padding: .5rem 0;
+    background: url('/aulas/aula3/projects/chale-hotel/images/ornamento.png') no-repeat center right;
+}
+
+#container #side-area .content #benefit-list li:hover {
+    background: #f6f3d6;
+    cursor: pointer;
+}
+
+
+/* footer */
+#container #footer {
+    clear: both;
+    padding: 1.6rem;
+    background: white url('/aulas/aula3/projects/chale-hotel/images/bg-rodape.png') repeat-x top;
+    color: #7d7640;
+    text-align: center;
+}
