@@ -22,10 +22,11 @@
 Este é um repositório aonde eu guardo meus treinamentos criando projetos de sites!
 * TecBlog é somente um blog de tecnologia criado para por em prática os conhecimentos básicos adquiridos.
 * Notícias Cidade é um site de notícias em alguma região no Brasil, com intuito de aprender a montar um site com várias colunas.
-* Chalé Hotel é um site de hospedagem em alguma parte do Brasil, usando o conhecimento de layout líquido
+* Chalé Hotel é um site de hospedagem em alguma parte do Brasil, usando o conhecimento de layout líquido.
+* O projeto Parallax é um site replicando o efeito Parrallax apenas usando o CSS. Parallax é o nome dado ao efeito de diferentes objetos parecerem estar em diferentes posições ou direções quando observados em diferentes posições. 
 
 Ambos projetos são **NÃO FUNCIONAIS** e **FICTÍCIOS**, ou seja, você não consegue interagir com muitas das coisas. A ideia deste projeto foi praticar os conhecimentos que eu venho adquirindo constatemente no HTML e CSS.
-As fotos estão em ordem decrescente, então a primeira foto é o meu primeiro projeto!
+As fotos estão em ordem crescente, então a primeira foto é o meu primeiro projeto!
 
 ---
 
