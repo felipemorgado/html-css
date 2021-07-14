@@ -1,0 +1,45 @@
+/* efeito parallax */
+.box1, .box2, .box3, .box4 {
+    position: relative;
+    height: 100%;
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.box1 {
+    background-image: url('/projects/parallax/images/imagem1.jpg');
+}
+
+.box2 {
+    background-image: url('/projects/parallax/images/imagem2.jpg');
+}
+
+.box3 {
+    background-image: url('/projects/parallax/images/imagem3.jpg');
+}
+
+.box4 {
+    background-image: url('/projects/parallax/images/imagem4.jpg');
+}
+
+
+/* formatando dentro do efeito parallax */
+.title-content {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.title-content span.title{
+    color: white;
+    background-color: #111;
+    padding: 1.8rem;
+    font-size: 1.8rem;
+    letter-spacing: .5rem;
+    text-transform: uppercase;
+}
