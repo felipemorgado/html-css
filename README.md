@@ -11,25 +11,26 @@
  <p align="center">
   <img src="https://i2.paste.pics/CYX6R.png" alt="Projeto1-Tecblog"/>
  </p>
- <br><br>
+ <br>
  
 ## Notícias Cidade
  <p align="center">
   <img src="https://i2.paste.pics/D42P9.png" alt="Projeto2-Noticias"/>
  </p>
- <br><br>
+ <br>
  
  ## Chalé Hotel
  <p align="center">
  <img src="https://i2.paste.pics/e80a8c52945ecd0812b2d59eab7f9e15.png" alt="Projeto3-Chale"/>
  </p>
- <br><br>
+ <br>
   
  ## Parallax
  <p align="center">
  <img src="https://i2.paste.pics/D6FAL.png" alt="Projeto4-Parallax"/>
  <img src="https://i2.paste.pics/D6FAW.png" alt="Projeto4-Parallax2"/>
  </p>
+<br>
 
 ## 💻 Sobre
 Este é um repositório aonde eu guardo meus treinamentos criando projetos de sites!
