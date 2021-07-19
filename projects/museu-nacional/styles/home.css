@@ -1,0 +1,130 @@
+/* container and logo */
+#container {
+    width: 108rem;
+    margin: 0 auto;
+}
+
+#container header #logo h1 {
+    float: left;
+}
+
+#container header #logo h1 a {
+    width: 24.8rem;
+    height: 2.1rem;
+    text-indent: -999.9rem;
+    display: block;
+    background: url('/aulas/aula4/projects/museu-nacional/images/logo.png') no-repeat;
+}
+
+
+/* header and horizontal navigation */
+header {
+    padding: 1.5rem 0;
+    height: 5.5rem;
+}
+
+#container header nav ul {
+    margin: 2rem;
+    float: right;
+}
+
+#container header nav ul li {
+    float: left;
+}
+
+#container header nav ul li a:link {
+    display: block;
+    margin-right: 2.5rem;
+    margin-bottom: .3rem;
+    text-transform: uppercase;
+}
+
+#container header nav ul li a:hover {
+    border-bottom: 3px solid #535858;
+}
+
+
+/* main */
+#container #main-content #content {
+    width: 71rem;
+    float: left;
+    margin-bottom: 2rem;
+}
+
+#container #main-content aside {
+    width: 35rem;
+    float: right;
+    background: #ebe7dd;
+    padding-bottom: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+#container #main-content aside #visit {
+    background: #cdc8b1;
+    padding: 1.2rem 2.7rem; 
+}
+
+#container #main-content #content #posts #video {
+    float: left;
+    width: 31rem;
+    margin-left: 2.5rem;
+}
+
+#container #main-content #content #posts #map {
+    float: left;
+    width: 31rem;
+    margin-left: 3.7rem;
+}
+
+#container #main-content #content #posts #exhibitions {
+    float: left;
+    width: 31rem;
+    margin: 1.5rem 0 0 2.5rem;
+}
+
+#container #main-content #content #posts #exhibitions li {
+    font-size: 1.3rem;
+    margin: .7rem 0;
+}
+
+#container #main-content #content #posts #history {
+    float: left;
+    width: 31rem;
+    margin: 1.5rem 0 0 3.7rem;
+}
+
+#container #main-content #content #posts #history a {
+    font-size: 1.3rem;
+    margin-top: 2rem;
+    padding: 0;
+    text-decoration: underline;
+}
+
+#container #main-content aside #gallery {
+    padding: 0 2.7rem 0 2.7rem;
+}
+
+#container #main-content aside #gallery a {
+    display: block;
+    background: url('/aulas/aula4/projects/museu-nacional/images/fundo-foto.png') no-repeat;
+    float: left;
+    padding: 1.5rem 1.5rem 2rem 1.5rem;
+    margin: 1rem 0 0 2rem;
+}
+
+#container #main-content aside #gallery img {
+    margin-left: .2rem;
+    margin-top: .5rem;
+}
+
+.title {
+    margin-top: 1rem;
+}
+
+.date {
+    cursor: text;
+}
+
+.field {
+    border: 1px solid #ada484;
+}
