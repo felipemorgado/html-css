@@ -13,7 +13,7 @@
     height: 2.1rem;
     text-indent: -999.9rem;
     display: block;
-    background: url('/aulas/aula4/projects/museu-nacional/images/logo.png') no-repeat;
+    background: url('/projects/museu-nacional/images/logo.png') no-repeat;
 }
 
 
@@ -106,7 +106,7 @@ header {
 
 #container #main-content aside #gallery a {
     display: block;
-    background: url('/aulas/aula4/projects/museu-nacional/images/fundo-foto.png') no-repeat;
+    background: url('/projects/museu-nacional/images/fundo-foto.png') no-repeat;
     float: left;
     padding: 1.5rem 1.5rem 2rem 1.5rem;
     margin: 1rem 0 0 2rem;
@@ -123,6 +123,7 @@ header {
 
 .date {
     cursor: text;
+    border: 1px solid #ada484;
 }
 
 .field {
