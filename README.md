@@ -19,12 +19,12 @@
  
  ## Chalé Hotel
  <p align="center">
- <img src="https://i2.paste.pics/IEANQ.png" alt="Projeto3-Chale-Hotel"/>
+ <img src="https://i2.paste.pics/d7e40f207d897eae2245ea051d673ef8.png" alt="Projeto3-Chale-Hotel"/>
 
  ## Parallax
  <p align="center">
  <img src="https://i2.paste.pics/D6FAL.png" alt="Projeto4-Parallax"/>
- <img src="https://i2.paste.pics/IEANV.png" alt="Projeto4-Parallax2"/>
+ <img src="https://i2.paste.pics/3a6f55abbaaef0abb7dc29d771387695.png" alt="Projeto4-Parallax2"/>
  </p>
 
  ## Museu Nacional
